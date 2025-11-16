@@ -1,0 +1,8 @@
+{
+  "name": "Copy of ICPR Junior College - AI Student Portal",
+  "description": "An academic web application for students of the Associate Degree in Artificial Intelligence applied to Business Management at ICPR Junior College. The portal provides access to course materials, interactive lessons, and a suite of AI tools powered by Gemini to enhance the learning experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
